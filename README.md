@@ -1,3 +1,3 @@
 # Starbucks-merry
 
-Live preview - star-bucks-0.netlify.app
+Live preview - https://star-bucks-0.netlify.app
